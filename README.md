@@ -13,21 +13,30 @@ Use somente contra números comprovadamente envolvidos em golpes ou atividades i
 # 📌 Como Usar
 1. Acesse o WhatsApp Web: https://web.whatsapp.com
 2. Abra o console do navegador:
-- Chrome/Edge: `Ctrl + Shift + J` (Windows/Linux) ou `Cmd + Option + J` (Mac)
-- Firefox: `Ctrl + Shift + K` (Windows/Linux) ou `Cmd + Option + K` (Mac)
+-- Chrome/Edge: `Ctrl + Shift + J` (Windows/Linux) ou `Cmd + Option + J` (Mac)
+-- Firefox: `Ctrl + Shift + K` (Windows/Linux) ou `Cmd + Option + K` (Mac)
 3. No Chrome, caso apareça o erro sobre colagem, digite primeiro:
 
-allow pasting
+```
+allow pasting 
+```
+
 E pressione Enter
 
 Copie todo o código abaixo e cole no console:
 
+```
 // [O código completo da função enviarScript vai aqui]
+```
+
 Abra a conversa com o golpista/pessoa mal-intencionada
 
 Execute o script digitando:
 
+```
 enviarScript(roteiroShrek);
+```
+
 E pressione Enter
 
 # 🛡️ Funcionamento Técnico
